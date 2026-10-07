@@ -3,8 +3,7 @@
 ## 1. Project Title
 **Student Performance Analytics System**
 
-- **Student Name:** ______________________________
-- **Roll Number:** ______________________________
+- **Student Name:** Lawish Kumar
 - **Batch / Course:** EWB Courses – Python with AI
 
 ---
