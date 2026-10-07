@@ -14,8 +14,7 @@
 ## 1. Project Title & Student Details
 
 **Student Performance Analytics System**  
-*(Replace this section with your name, roll number and batch after downloading the project.)*
-
+  Lawish Kumar
 ---
 
 ## 2. Objective
